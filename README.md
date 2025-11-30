@@ -1,6 +1,6 @@
 # Paper Review: When FRODO Flips
 
-This repository contains slides and supporting material for a paper review of “When FRODO Flips: End-to-end key recovery on FrodoKEM via Rowhammer” (Fahr et al., 2022). [attached_file:1]
+This repository contains slides and supporting material for a paper review of “When FRODO Flips: End-to-end key recovery on FrodoKEM via Rowhammer” (Fahr et al., 2022).
 
 ## Talk video
 
@@ -9,7 +9,7 @@ Watch the presentation here:
 
 ## Contents
 
-- FRODO-When-FRODO-Flips-Review.pptx – slide deck for the paper review. [attached_file:1]
+- FRODO-When-FRODO-Flips-Review.pptx – slide deck for the paper review.
 - references.txt – bibliographic entry for the original paper and related work.
 
 ## Paper being reviewed
