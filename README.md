@@ -7,6 +7,8 @@ This repository contains slides and supporting material for a paper review of â€
 Watch the presentation here:  
 - Talk video: https://drive.google.com/file/d/1GX5wd5IzAvl-3PL8tpaA7xcYrMU7o8SD/view
 
+![FRodoKEM_Review_Presentation](https://github.com/user-attachments/assets/90f9c659-d09a-426e-ac42-6f30a152469b)
+
 ## Contents
 
 - FRODO-When-FRODO-Flips-Review.pptx â€“ slide deck for the paper review.
