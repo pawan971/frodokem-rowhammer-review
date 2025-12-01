@@ -31,7 +31,7 @@ Key high-level points covered in the slides include:
 
 - Clone the repository:
 
-```git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git```
+```git clone https://github.com/pawan971/frodokem-rowhammer-review```
 
 
 - Open `FRODO-When-FRODO-Flips-Review.pptx` in PowerPoint, Keynote, LibreOffice, or Google Slides to view or present the deck.
